@@ -1,7 +1,4 @@
 input.txt
 .vscode
-outputs
-rand
 output.txt
-test.py
 main.py
